@@ -1,0 +1,1 @@
+This is an _.editorconfig_ file to accompany [my blog post](http://kent-boogaart.com/blog/editorconfig-reference-for-c-developers) on the topic. It is set to the default values I like for all options, but can easily be used as a starting point for developers looking to enable _.editorconfig_ support against their code bases.
