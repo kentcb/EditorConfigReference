@@ -32,7 +32,7 @@ csharp_new_line_before_members_in_anonymous_types = true
 csharp_new_line_before_members_in_object_initializers = true
 
 # http://kent-boogaart.com/blog/editorconfig-reference-for-c-developers#csharp_new_line_before_open_brace
-csharp_new_line_before_open_brace = true
+csharp_new_line_before_open_brace = all
 
 # http://kent-boogaart.com/blog/editorconfig-reference-for-c-developers#csharp_new_line_between_query_expression_clauses
 csharp_new_line_between_query_expression_clauses = true
@@ -71,7 +71,7 @@ csharp_space_after_semicolon_in_for_statement = true
 csharp_space_around_binary_operators = before_and_after
 
 # http://kent-boogaart.com/blog/editorconfig-reference-for-c-developers#csharp_space_around_declaration_statements
-csharp_space_around_declaration_statements = false
+csharp_space_around_declaration_statements = do_not_ignore
 
 # http://kent-boogaart.com/blog/editorconfig-reference-for-c-developers#csharp_space_before_colon_in_inheritance_clause
 csharp_space_before_colon_in_inheritance_clause = true
